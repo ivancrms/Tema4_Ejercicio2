@@ -1,0 +1,33 @@
+.heroimage{
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.199), rgba(0, 0, 0, 0.199)), url("imagenes/lluvia.giflluvia2.gif");
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.199), rgba(0, 0, 0, 0.199)), url("imagenes/lluvia2.gif");
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.199), rgba(0, 0, 0, 0.199)), url("imagenes/lluvia2.gif");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    background-attachment: fixed;
+    top: 0px;
+    left: 15%;
+    right: 15%;
+    border-radius: 35%;
+}
+.herotext{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    margin-left: 15%;
+    right: 0px;
+}
+h1{
+    margin-left: 50px;
+}
+body{
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.274), rgba(0, 0, 0, 0.274)), url("imagenes/fondo.jpg");
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.274), rgba(0, 0, 0, 0.274)), url("imagenes/fondo.jpg");
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.274), rgba(0, 0, 0, 0.274)), url("imagenes/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
